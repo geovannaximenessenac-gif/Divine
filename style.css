@@ -231,7 +231,7 @@ i {
 }
 .haircut img {
   width: 100%;
-  max-width: 354px;
+  max-width: 400px;
   transition: transform 0.2s;
 }
 
